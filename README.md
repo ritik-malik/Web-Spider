@@ -18,6 +18,9 @@ The aim of the script is to provide all the information it can gather about a we
 4) Then run the file:
    `python3 webspider.py`
    
+## Behind the scene
+The code uses python seleium webdriver to launch a headless firefox browser & then submits your query & get the required information.
+   
 ## Contribution
 Any contribution of any kind is welcome, feel free to make PRs :)
 
