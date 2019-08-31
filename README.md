@@ -16,7 +16,7 @@ The aim of the script is to provide all the information it can gather about a we
 3) In web-spider.py line no. 12-
    Change `url=raw_input("Enter the URL: ")` to `url=input("Enter the URL: ")`
 4) Then run the file:
-   `python webspider.py`
+   `python3 webspider.py`
    
 ## Contribution
 Any contribution of any kind is welcome, feel free to make PRs :)
